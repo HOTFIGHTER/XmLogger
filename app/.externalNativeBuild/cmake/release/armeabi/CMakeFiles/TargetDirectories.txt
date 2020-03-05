@@ -1,0 +1,6 @@
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/xlogger.dir
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/boost/CMakeFiles/rebuild_cache.dir
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/boost/CMakeFiles/edit_cache.dir
+/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/release/armeabi/boost/CMakeFiles/mars-boost.dir

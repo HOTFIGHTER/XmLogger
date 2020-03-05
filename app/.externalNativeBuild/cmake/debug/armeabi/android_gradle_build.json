@@ -1,0 +1,118 @@
+{
+  "stringTable": {
+    "0": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi",
+    "1": "--target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/xmly/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xmly/Library/Android/sdk/ndk-bundle/sysroot -Dxlogger_EXPORTS -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/xmly/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xmly/Library/Android/sdk/ndk-bundle/sysroot -Dxlogger_EXPORTS -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/xmly/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xmly/Library/Android/sdk/ndk-bundle/sysroot -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost/. -I/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost/.. -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /Users/xmly/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info"
+  },
+  "buildFiles": [
+    "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost/CMakeLists.txt",
+    "/Users/xmly/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target clean"
+  ],
+  "libraries": {
+    "xlogger-Debug-armeabi": {
+      "buildCommand": "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target xlogger",
+      "buildType": "debug",
+      "toolchain": "1837589942",
+      "abi": "armeabi",
+      "artifactName": "xlogger",
+      "files": [
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/log/loginfo_extract.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/formater.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/file_operator.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/mmap_util.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/scoped_jstring.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/autobuffer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/util/ptrbuffer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/log/log_crypt.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/log/log_buffer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/log/xloggerbase.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/log/appender.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/logger/jni/java2C_Xlog.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/build/intermediates/cmake/debug/obj/armeabi/libxlogger.so"
+    },
+    "mars-boost-Debug-armeabi": {
+      "buildCommand": "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target mars-boost",
+      "buildType": "debug",
+      "toolchain": "1837589942",
+      "abi": "armeabi",
+      "artifactName": "mars-boost",
+      "files": [
+        {
+          "src": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost/libs/iostreams/src/mapped_file.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi/boost/libmars-boost.a"
+    }
+  },
+  "toolchains": {
+    "1837589942": {
+      "cCompilerExecutable": "/Users/xmly/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/xmly/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

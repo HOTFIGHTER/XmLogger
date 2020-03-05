@@ -1,0 +1,6 @@
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/xlogger.dir
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/boost/CMakeFiles/rebuild_cache.dir
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/boost/CMakeFiles/edit_cache.dir
+/Users/xmly/Desktop/XmLogger/xlogger/app/.externalNativeBuild/cmake/debug/x86/boost/CMakeFiles/mars-boost.dir

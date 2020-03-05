@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/boost/CMakeLists.txt",
+    "/Users/xmly/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target clean"
+  ],
+  "libraries": {
+    "xlogger-Debug-armeabi": {
+      "artifactName": "xlogger",
+      "buildCommand": "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target xlogger",
+      "abi": "armeabi",
+      "output": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/build/intermediates/cmake/debug/obj/armeabi/libxlogger.so"
+    },
+    "mars-boost-Debug-armeabi": {
+      "artifactName": "mars-boost",
+      "buildCommand": "/Users/xmly/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi\" --target mars-boost",
+      "abi": "armeabi",
+      "output": "/Users/xmly/Desktop/workplace/xlogger/xlogger/app/.externalNativeBuild/cmake/debug/armeabi/boost/libmars-boost.a"
+    }
+  }
+}
